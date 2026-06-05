@@ -1,0 +1,4 @@
+npm install -----> instalar
+
+
+npm run start ------> ejecutar

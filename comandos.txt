@@ -11,3 +11,7 @@ git add .
 git commit -m "mensaje de cambio"
 
 git push
+
+descargar los cambios: 
+
+git pull origin main

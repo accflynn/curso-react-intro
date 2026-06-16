@@ -16,7 +16,7 @@
     font-weight: 400; 
 }
 
-.TodoItem-p--Complete {
+.TodoItem-p--completed {
     text-decoration: line-through;
 }
 

@@ -12,7 +12,8 @@ function TodoItem(props) {
         
   
       <p className={`TodoItem-p ${props.
-        completed && "TodoItem-p--completed"}`}>
+        completed && "TodoItem-p--completed"}`}
+        >
         {props.text}
       </p>
       <DeleteIcon
